@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="520"
+   height="520"
+   viewBox="0 0 520.00002 520"
+   id="svg17273"
+   version="1.1">
+  <title
+     id="title3341">LCONF-Data-Serialization-Format-Standard LOGO</title>
+  <defs
+     id="defs17275" />
+  <metadata
+     id="metadata17278">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>LCONF-Data-Serialization-Format-Standard LOGO</dc:title>
+        <cc:license
+           rdf:resource="" />
+        <dc:date>2015</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>peter1000 &lt;https://github.com/peter1000&gt;</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Copyright © 2015 **peter1000** &lt;https://github.com/peter1000&gt; All rights reserved.</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>LCONF</rdf:li>
+            <rdf:li>LCONF-Data-Serialization-Format-Standard</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <rect
+     y="3.7290956e-08"
+     x="4.4784545e-09"
+     height="520"
+     width="520"
+     id="rect3348"
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.75200009;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     d="m 250.67019,71.230465 c 21.07247,-15.03424 39.15099,-14.973631 54.23796,0.181343 15.19526,14.736681 25.80958,42.972712 31.84292,84.708142 2.77087,19.16734 4.30136,39.73136 4.59068,61.69179 0.3992,21.54183 -0.73905,44.18063 -3.41603,67.91708 -2.72172,23.42726 -6.81084,45.61299 -12.26668,66.55732 -5.34729,20.52562 -12.94242,39.58581 -22.78517,57.18052 -9.73352,17.17552 -21.06077,30.37298 -33.98096,39.5905 -20.6108,14.70497 -38.61334,14.5896 -54.00711,-0.34636 -15.2845,-15.35476 -25.85436,-43.28174 -31.70851,-83.7805 -2.63685,-18.24 -4.15536,-38.1306 -4.55435,-59.6726 -0.28968,-21.96054 0.90386,-44.8088 3.5808,-68.54479 2.67744,-23.7367 6.66646,-46.02205 11.9689,-66.85695 5.4114,-21.25381 12.96178,-40.62291 22.65056,-58.10793 9.79785,-17.903876 21.08061,-31.409933 33.84699,-40.518203 z"
+     style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-size:medium;line-height:125%;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold Italic';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     id="path16587-4-5-9-7-6" />
+</svg>

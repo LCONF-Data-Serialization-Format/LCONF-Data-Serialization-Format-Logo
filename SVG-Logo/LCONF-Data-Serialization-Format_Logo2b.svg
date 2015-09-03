@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   id="svg17273"
+   viewBox="0 0 520.00001 520.00001"
+   height="520"
+   width="520">
+  <title
+     id="title3342">LCONF-Data-Serialization-Format-Standard LOGO</title>
+  <defs
+     id="defs17275" />
+  <metadata
+     id="metadata17278">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>LCONF-Data-Serialization-Format-Standard LOGO</dc:title>
+        <cc:license
+           rdf:resource="" />
+        <dc:date>2015</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>peter1000 &lt;https://github.com/peter1000&gt;</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Copyright © 2015 **peter1000** &lt;https://github.com/peter1000&gt; All rights reserved.</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>LCONF</rdf:li>
+            <rdf:li>LCONF-Data-Serialization-Format-Standard</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <rect
+     y="-0.4990676"
+     x="0.49904031"
+     height="520"
+     width="520"
+     id="rect3379"
+     style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.99800003;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <g
+     transform="matrix(1.1442267,0,0,2.1519925,-342.93138,-143.58143)"
+     id="g3386">
+    <g
+       id="text16123-78-36-7-9"
+       style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-size:113.43386841px;line-height:125%;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold Italic';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.88691772,-0.36280586,0.25769506,1.0220866,200.22498,-1891.4531)">
+      <path
+         id="path16585-26-7-5"
+         style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold Italic'"
+         d="m -316.10104,1978.8145 q 0,-15.7673 6.23886,-28.9257 6.23887,-13.1583 17.35538,-20.7584 11.11652,-7.7135 24.72859,-7.7135 13.15833,0 21.32556,6.5792 8.16724,6.5792 8.16724,17.1285 0,1.4747 -0.45373,5.6717 l -15.99418,0 q 0,-14.8598 -14.97327,-14.8598 -6.01199,0 -10.88965,2.3821 -4.87766,2.2687 -7.94037,6.1254 -3.06271,3.8568 -5.33139,8.2807 -2.15525,4.3105 -3.28958,9.0747 -1.13434,4.6508 -1.58808,8.0538 -0.45373,3.2896 -0.45373,5.6717 0,18.036 16.67477,18.036 8.16724,0 13.95237,-4.1971 5.78513,-4.3105 8.28067,-12.1374 l 16.22105,0 q -3.74332,14.5195 -14.51954,22.6868 -10.77622,8.1672 -26.31666,8.1672 -14.51953,0 -22.91364,-7.8269 -8.28067,-7.827 -8.28067,-21.439 z" />
+      <path
+         id="path16587-4-5-9"
+         style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold Italic'"
+         d="m -185.23735,1921.4169 q 15.54044,0 24.16141,8.621 8.73441,8.5076 8.73441,23.8211 0,7.0329 -1.92837,14.4061 -1.81495,7.2598 -5.89856,14.5196 -4.08362,7.1463 -9.75532,12.818 -5.55826,5.5582 -13.83893,9.0747 -8.16724,3.403 -17.69568,3.403 -15.20014,0 -24.04798,-8.621 -8.73441,-8.7344 -8.73441,-23.5942 0,-6.6926 1.81494,-13.9524 1.92838,-7.3732 6.012,-14.6329 4.08362,-7.2598 9.64188,-12.9315 5.67169,-5.7851 13.83893,-9.3016 8.28067,-3.6299 17.69568,-3.6299 z m -13.49863,72.144 q 5.89856,0 10.77622,-2.1553 4.87765,-2.2686 7.94037,-5.8985 3.06271,-3.7433 5.33139,-7.9404 2.26868,-4.197 3.28958,-8.621 1.13434,-4.4239 1.58808,-7.6 0.56717,-3.1762 0.56717,-5.4449 0,-9.415 -4.87766,-14.6329 -4.76422,-5.3314 -13.27176,-5.3314 -5.89856,0 -10.88965,2.2687 -4.87766,2.1552 -8.05381,5.7851 -3.06271,3.6299 -5.33139,7.8269 -2.26868,4.0836 -3.51645,8.5076 -1.13434,4.4239 -1.70151,7.7135 -0.45373,3.1761 -0.45373,5.4448 0,9.3016 4.99109,14.7464 4.99109,5.3314 13.61206,5.3314 z" />
+      <path
+         id="path16589-7-2-2"
+         style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold Italic'"
+         d="m -65.525625,1922.7781 -17.58225,82.6933 -16.788212,0 -21.779303,-59.3259 -12.59116,59.3259 -16.10761,0 17.58225,-82.6933 17.01508,0 21.779304,58.4185 12.364292,-58.4185 16.107609,0 z" />
+      <path
+         id="path16591-9-2-3"
+         style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold Italic'"
+         d="m -43.104712,1969.8532 -7.600069,35.6182 -17.015081,0 17.58225,-82.6933 58.0781406,0 -3.0627145,14.1793 -41.0630601,0 -3.970186,18.7166 36.2988383,0 -3.0627145,14.1792 -36.1854038,0 z" />
+    </g>
+    <g
+       style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:180px;line-height:125%;font-family:'Chancery URW';-inkscape-font-specification:'Chancery URW, Medium Italic';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="text3377">
+      <path
+         d="m 495.5863,86.201395 c -7.5,-0.75 -10.875,-1.125 -16.5,-1.125 -7.125,0 -13.875,0.75 -19.875,2.25 -10.125,2.625 -28.125,15.375005 -43.125,30.375005 -18.375,18.75 -24.75,36.375 -39.375,105.75 -10.125,48 -19.875,61.875 -43.5,61.875 -2.625,0 -7.5,0 -11.625,-0.375 -5.25,5.25 -7.5,7.875 -13.125,15 17.25,-0.75 26.25,-1.125 36.75,-1.125 10.125,0 29.625,0.75 57.375,1.875 60.75,3 63,3 73.875,3 54.61664,-23.60926 280.08564,-139.57575 269.4528,-139.47876 -14.01953,0.12789 -279.39171,121.08134 -310.3278,118.85376 l -70.875,0 c 3,-3 6.375,-6.375 10.125,-9.75 19.875,-18.375 22.5,-23.25 31.875,-62.25 10.875,-46.5 16.125,-67.125 21,-81.75 5.625,-15.75 15.375,-22.875 31.125,-22.875 5.25,0 8.625,0 22.125,0.75 z"
+         id="path3384" />
+    </g>
+  </g>
+</svg>
